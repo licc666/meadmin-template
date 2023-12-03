@@ -1,0 +1,1 @@
+import{y as u}from"./index-391c66f0.js";function l(e){return function(r,o,i){for(var f=-1,a=Object(r),n=i(r),s=n.length;s--;){var t=n[e?s:++f];if(o(a[t],t,a)===!1)break}return r}}var b=l();const p=b;function c(e,r){return e&&p(e,r,u)}export{p as a,c as b};

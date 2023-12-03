@@ -1,0 +1,1 @@
+import{i as s}from"./identity-46f208ab.js";import{s as t,o as e}from"./index-589bce5d.js";import{ap as o,s as a}from"./index-391c66f0.js";function b(r,i){return t(e(r,i,s),r+"")}function f(r){return o(r)&&a(r)}export{b,f as i};
